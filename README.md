@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+See [https://auth0.com/blog/react-router-4-practical-tutorial/] for the authentication tutorial
+
 ## Available Scripts
 
 In the project directory, you can run:
